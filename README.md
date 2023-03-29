@@ -1,4 +1,4 @@
-**COOKIE-DOUGH-Ultra**
+# COOKIE-DOUGH-Ultra
 
 An updated version of the original exploit Cookie Dough, as the other one required bookmarklets, DNS or inspect. This is much better needing neither.
 
